@@ -1,0 +1,1 @@
+users = [{"NIN": "1RT51H" ,"email": "danner@gmail.com", "username": "danner", "password": "danner123", "role": "admin"}, {"NIN": "7YI88Q" ,"email": "lagga@gmail.com", "username": "lagga", "password": "lagga456", "role": ""}]

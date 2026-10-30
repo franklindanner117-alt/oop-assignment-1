@@ -1,0 +1,1 @@
+complaints = [ {"NIN": "", "complaint": ""}, {"NIN": "1EYKS8BR", "complaint": "I am seriously hungry and want to eat shawarma"}, {"NIN": "7YI88Q", "complaint": "I am Lagga"}, {"NIN": "4RF6TED", "complaint": "I am going to be going early to school tomorrow"}]
